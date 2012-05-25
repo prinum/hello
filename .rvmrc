@@ -1,0 +1,2 @@
+rvm use ruby-1.9.3-p125@hello --create
+export RAILS_ENV=local
